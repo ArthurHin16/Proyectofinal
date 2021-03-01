@@ -1,0 +1,42 @@
+#titulo{
+    color: rgba(0,0,0,0.6);
+	background: #629552;
+	text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -5px 35px rgba(255,255,255,0.3);
+    padding:10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+
+ .Card-logo {
+
+    display:center;
+
+ 	width: 220px; 
+ 	height: 300px;
+    border: 5px solid #006666;
+    margin: 5px 50px;
+    padding: 5px;
+    box-shadow: 5px 5px 5px #004D0D;
+}
+
+.rectangulo{
+
+    width: 350px; 
+    height: 550px;
+	background: #629552;
+    display: inline-block;
+    vertical-align: top;
+    border:2px solid #000;
+    margin: 5px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px #808080;
+}
+
+#informacion{
+color: #E2F6EB;
+margin: 5px;
+text-shadow: 4px 3px 0px #004D0D;
+text-align: center;
+}
+
